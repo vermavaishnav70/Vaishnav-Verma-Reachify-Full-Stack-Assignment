@@ -1,3 +1,9 @@
+### Projects
+
+- Space [Repo](https://github.com/Space-Project/space) [Deployed](https://space-qnih.vercel.app/)
+- WanderLust [Repo](https://github.com/vermavaishnav70/wanderlust) [Deployed](https://wanderlust-plum-eight.vercel.app/)
+- BookStore  [Repo](https://github.com/vermavaishnav70/BookStore) [Deployed](https://bookstore-4jsf.onrender.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
